@@ -12,3 +12,8 @@ Add this to your `.bashrc` or `.zhsrc`.
 # Running projects tmux-sessions
 session() { sh ~/projects/tmux-sessions/$1.sh }
 ```
+
+run session for project
+```sh
+session session_name
+```
